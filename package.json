@@ -8,7 +8,7 @@
     "serverless-plugin-typescript": "^1.1.7"
   },
   "devDependencies": {
-    "serverless": "^1.45.1",
+    "serverless": "^1.83.3",
     "typescript": "^3.5.2"
   },
   "scripts": {
